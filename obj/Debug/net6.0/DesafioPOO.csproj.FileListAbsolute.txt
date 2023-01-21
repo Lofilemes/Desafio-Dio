@@ -1,0 +1,15 @@
+/home/lcastro/desafio/trilha-net-poo-desafio/bin/Debug/net6.0/DesafioPOO
+/home/lcastro/desafio/trilha-net-poo-desafio/bin/Debug/net6.0/DesafioPOO.deps.json
+/home/lcastro/desafio/trilha-net-poo-desafio/bin/Debug/net6.0/DesafioPOO.runtimeconfig.json
+/home/lcastro/desafio/trilha-net-poo-desafio/bin/Debug/net6.0/DesafioPOO.dll
+/home/lcastro/desafio/trilha-net-poo-desafio/bin/Debug/net6.0/DesafioPOO.pdb
+/home/lcastro/desafio/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.csproj.AssemblyReference.cache
+/home/lcastro/desafio/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/lcastro/desafio/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.AssemblyInfoInputs.cache
+/home/lcastro/desafio/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.AssemblyInfo.cs
+/home/lcastro/desafio/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.csproj.CoreCompileInputs.cache
+/home/lcastro/desafio/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.dll
+/home/lcastro/desafio/trilha-net-poo-desafio/obj/Debug/net6.0/refint/DesafioPOO.dll
+/home/lcastro/desafio/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.pdb
+/home/lcastro/desafio/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.genruntimeconfig.cache
+/home/lcastro/desafio/trilha-net-poo-desafio/obj/Debug/net6.0/ref/DesafioPOO.dll
